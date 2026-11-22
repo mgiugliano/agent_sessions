@@ -260,4 +260,4 @@ The comments above the configuration section of `aises.py` show where.
 
 ## License
 
-Choose a license before publishing (for example MIT) and add a `LICENSE` file.
+MIT. See the [LICENSE](LICENSE) file.
