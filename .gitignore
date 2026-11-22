@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+uv.lock
+
+# macOS
+.DS_Store
+
+# Safety net: never commit local session data or exports
+*.db
+*.sqlite
+*.jsonl
+*.pb
+.env
